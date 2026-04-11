@@ -14,7 +14,7 @@ Full-stack implementation of a Visible Light Communication (Li-Fi) system: DC-OF
 MATLAB/Simulink → VHDL on FPGA, analog front-end hardware, optical channel simulation,
 and network-layer modeling in OMNeT++. 10 repositories · UTN FRBA final degree project (2025).
 
-### 🛠️ [BeagleBone Black — MPU6050 I2C Linux Driver](https://github.com/mtassone1/beaglebone)
+### 🛠️ [BeagleBone Black — MPU6050 I2C Linux Driver](https://github.com/mtassone1/bbb-linux-platform-driver)
 Custom Linux kernel I2C driver (`td3_i2c_dev`) for the MPU6050 gyroscope/accelerometer on the BeagleBone Black.
 Includes a device tree overlay, a multithreaded C server with a FIR low-pass filter, and a Python Unix-socket client.
 Full embedded Linux stack: kernel module · device tree · DSP · IPC.
